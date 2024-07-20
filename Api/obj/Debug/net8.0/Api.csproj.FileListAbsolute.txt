@@ -278,3 +278,4 @@
 /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/desafio-dia-do-rock/desafio-dia-do-rock/Api/obj/Debug/net8.0/Api.csproj.Up2Date
 /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/desafio-dia-do-rock/desafio-dia-do-rock/Api/obj/Debug/net8.0/Api.genruntimeconfig.cache
 /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/desafio-dia-do-rock/desafio-dia-do-rock/Api/obj/Debug/net8.0/ref/Api.dll
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/desafio-dia-do-rock/desafio-dia-do-rock/Api/obj/Debug/net8.0/Api.sourcelink.json
