@@ -1,6 +1,6 @@
-@Api_HostAddress = http://localhost:5061
+@Api_HostAddress = http://localhost:5063
 
-GET {{Api_HostAddress}}/Event/
+GET {{Api_HostAddress}}/event/
 Accept: application/json
 
 ###
