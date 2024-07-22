@@ -25,6 +25,7 @@
 
     <ItemGroup>
       <Folder Include="Controllers\" />
+      <Folder Include="storage\image\" />
     </ItemGroup>
 
     <ItemGroup>
@@ -42,5 +43,5 @@
     <ItemGroup>
       <None Remove="publish\**" />
     </ItemGroup>
-
+    
 </Project>
